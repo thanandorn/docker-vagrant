@@ -1,6 +1,6 @@
 # Build image
 
-VERSION=7.3.1611
+VERSION=7.4.1708
 
 all: build
 

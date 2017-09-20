@@ -1,4 +1,4 @@
-FROM centos:7.3.1611
+FROM centos:7.4.1708
 MAINTAINER Tron Thongsringklee <thanandorn@gmail.com>
 
 RUN yum -y install openssh-server openssh-clients hostname crontabs initscripts
